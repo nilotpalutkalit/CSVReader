@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVReader", "CSVReader\CSVReader.csproj", "{BFE4A85B-D6B5-4FB8-A3DE-E1FA15BFA7A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE4A85B-D6B5-4FB8-A3DE-E1FA15BFA7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE4A85B-D6B5-4FB8-A3DE-E1FA15BFA7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE4A85B-D6B5-4FB8-A3DE-E1FA15BFA7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE4A85B-D6B5-4FB8-A3DE-E1FA15BFA7A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
